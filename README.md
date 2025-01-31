@@ -1,2 +1,4 @@
 # protocols
-Detail instructions or workflows for more complex analyses
+Detailed instructions or workflows for more complex analyses.
+
+## **Currently in the repository:**
