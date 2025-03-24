@@ -1,1 +1,3 @@
+# Evolutionary Placemnet Algorithm (EPA)
+method to assign short reads to edges of a given phylegentic tree under maximum-likleihood (ML) model.
 
